@@ -1,5 +1,5 @@
+word1 = input("What you gotta say? :")
 while True:
-    user_input = input("What you gotta say? : ")
-    if user_input == "STOP":
+    word2 = input("I got that! Anything else? : ")
+    if word2 == "STOP":
         break
-    print("I got that! Anything else?")
